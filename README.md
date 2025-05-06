@@ -1,1 +1,1 @@
-A fun Python twist on MS Paint, now with a Toy Story theme! Use brushes, colours, and stickers to create your own art or fill in built-in Toy Story colouring pages. Save your masterpieces and enjoy the creative tools. Best experienced on a 1200 x 865 screen to access everything.
+
